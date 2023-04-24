@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030814079084",
+    "project_id": "flutterui-61a48",
+    "storage_bucket": "flutterui-61a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030814079084:android:11c27af1fe4a9db42be049",
+        "android_client_info": {
+          "package_name": "com.example.instagrambasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030814079084-i302e52ld0mrasrq6c2pm10afrnh834l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG_2Zp7Iw3K1dx0OxWRJBnpHoO0BS9Lro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030814079084-i302e52ld0mrasrq6c2pm10afrnh834l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
